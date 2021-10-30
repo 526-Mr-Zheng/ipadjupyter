@@ -1,0 +1,13 @@
+dependencies:
+  - python=3
+  - pip:
+     - spacy
+     - ipykernel
+     - numpy
+     - socket
+     - datetime
+     - time
+     - scikit-learn
+     - matplotlib
+     - pandas
+     - thinc
