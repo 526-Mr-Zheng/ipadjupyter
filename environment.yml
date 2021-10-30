@@ -3,10 +3,8 @@ dependencies:
   - pip:
      - spacy
      - ipykernel
+     - scipy
      - numpy
-     - socket
-     - datetime
-     - time
      - scikit-learn
      - matplotlib
      - pandas
