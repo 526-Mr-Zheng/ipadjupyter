@@ -5,6 +5,7 @@ dependencies:
      - ipykernel
      - scipy
      - numpy
+     - socket
      - scikit-learn
      - matplotlib
      - pandas
